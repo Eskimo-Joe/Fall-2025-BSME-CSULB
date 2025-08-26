@@ -1,15 +1,15 @@
 ---
 date: 2025-08-25
 tags:
-  - CE335
   - class
+  - MAE371
 ---
 
-Location: 
+Location: ECS 202
 Textbook
-[Canvas](https://csulb.instructure.com/courses/94638)
+[Canvas](https://csulb.instructure.com/courses/106015)
 Tu/Th 7-8:15p
-[Syllabus](https://csulb.instructure.com/courses/94638/files/21156813?module_item_id=5525654)
+[Syllabus](obsidian://open?vault=Fall-2025-BSME-CSULB&file=MISC%2FAttatchments%2F2254_MAE371_09_AnalyticalMechanics_Dynamics_Kim.pdf)
 
 ## Notes
 | Date       | Subject | Src | Notes |

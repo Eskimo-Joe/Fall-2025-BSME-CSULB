@@ -5,11 +5,11 @@ tags:
   - class
 ---
 
-Location: 
-Textbook
-[Canvas](https://csulb.instructure.com/courses/94638)
+Location: ECS 306 or VEC 227
+[Textbook](https://education.wiley.com/ng-course-dashboard/index.html#/course-resources)
+[Canvas](https://csulb.instructure.com/courses/99910)
 Tu/Th 2-3:15p
-[Syllabus](https://csulb.instructure.com/courses/94638/files/21156813?module_item_id=5525654)
+[Syllabus](https://csulb.instructure.com/courses/99910/assignments/syllabus)
 
 ## Notes
 | Date       | Subject | Src | Notes |
@@ -18,7 +18,6 @@ Tu/Th 2-3:15p
 
 
 ## Homework
-
 ```dataview
 table due, submitted, src
 from "Fall-2025-BSME-CSULB/HW" and #CE335
