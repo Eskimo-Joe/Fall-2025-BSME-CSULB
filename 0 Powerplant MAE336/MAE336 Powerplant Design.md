@@ -5,7 +5,7 @@ tags:
   - class
 ---
 
-Location: 
+Location: EN2 103
 Textbook
 [Canvas](https://csulb.instructure.com/courses/94638)
 Tu/Th 5:30-6:45p
