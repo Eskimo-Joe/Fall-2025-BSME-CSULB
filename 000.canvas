@@ -2,7 +2,8 @@
 	"nodes":[
 		{"id":"433b556b95b58331","type":"text","text":"#### Tu/Th\n[[CE335 Fluid Mechanics]]\n[[MAE305 Numerical Methods]]\n[[MAE336 Powerplant Design]]\n[[MAE371 Dynamics]]\n#### Th\n[[CE336 Fluids Lab]]\n#### Sa\n[[MAE361 Materials Lab]]\n","x":-640,"y":-420,"width":300,"height":560},
 		{"id":"11615beda781b969","type":"text","text":"```\ncd Documents/~updn~/Fall-2025-BSME-CSULB\ngit add.\ngit commit -m \"MMDD-XX\"\ngit push origin main\n```","x":-340,"y":-80,"width":440,"height":220},
-		{"id":"16e792ce159b08a6","type":"text","text":"# SharkSat\n- Wire Harness Spreadsheet\n- SharkSat-1 CAD\n- Flight Tags\n- Reimbursements","x":-340,"y":-420,"width":440,"height":340}
+		{"id":"16e792ce159b08a6","type":"text","text":"# SharkSat\n- Wire Harness Spreadsheet\n- SharkSat-1 CAD\n- Flight Tags\n- Reimbursements","x":-340,"y":-420,"width":440,"height":340},
+		{"id":"bc5c54041046ca1e","type":"text","text":"[Homework](obsidian://open?vault=Home%20W11%20Vault&file=Fall-2025-BSME-CSULB%2FMISC%2FHomework.base)","x":100,"y":-420,"width":250,"height":60}
 	],
 	"edges":[]
 }

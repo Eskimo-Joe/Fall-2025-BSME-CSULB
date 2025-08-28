@@ -1,0 +1,16 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Fall-2025-BSME-CSULB/MISC/HW")
+    order:
+      - file.name
+      - due
+      - tags
+      - submitted
+    sort:
+      - property: submitted
+        direction: ASC
+      - property: due
+        direction: ASC
