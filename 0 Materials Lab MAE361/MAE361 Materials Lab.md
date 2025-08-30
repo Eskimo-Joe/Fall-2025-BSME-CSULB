@@ -11,10 +11,12 @@ Textbook
 Sa 9-11:45a
 [Syllabus](https://csulb.instructure.com/courses/105961/assignments/syllabus)
 
+![[Pasted image 20250830090313.png]]
+
 ## Notes
 | Date       | Subject | Src | Notes |
 | ---------- | ------- | --- | ----- |
-| 2025-08-26 | Intro   |     |       |
+| 2025-08-30 | Intro   |     |       |
 
 
 ## Homework

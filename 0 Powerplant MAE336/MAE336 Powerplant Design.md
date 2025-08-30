@@ -6,15 +6,17 @@ tags:
 ---
 
 Location: EN2 103
-Textbook
-[Canvas](https://csulb.instructure.com/courses/94638)
+[Textbook](obsidian://open?vault=~updn~&file=Fall-2025-BSME-CSULB%2FMISC%2FAttatchments%2Fpdfcoffee.com_engineering-thermodynamics-by-cengel-boles-and-kanoglu-9th-edition-pdf-free.pdf%20-%202023.01.13%20-%2006.32.12pm.pdf.pdf)
+Canvas (none)
 Tu/Th 5:30-6:45p
-[Syllabus](https://csulb.instructure.com/courses/94638/files/21156813?module_item_id=5525654)
+Syllabus (Paper)
 
 ## Notes
-| Date       | Subject | Src | Notes |
-| ---------- | ------- | --- | ----- |
-| 2025-08-26 | Intro   |     |       |
+| Date       | Subject | Src | Notes             |
+| ---------- | ------- | --- | ----------------- |
+| 2025-08-28 | Intro   |     | [[N1-Powerplant]] |
+|            |         |     |                   |
+|            |         |     |                   |
 
 
 ## Homework

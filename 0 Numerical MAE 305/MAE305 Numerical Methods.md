@@ -13,12 +13,14 @@ Tu/Th 3:30-4:45p
 [Syllabus](https://csulb.instructure.com/courses/105733/files/24936608?module_item_id=6273671)
 
 ## Notes
-| Date       | Subject          | Src                                                                                       | Notes                   |
-| ---------- | ---------------- | ----------------------------------------------------------------------------------------- | ----------------------- |
-| 2025-08-26 | error definition | [src](https://csulb.instructure.com/courses/105733/files/24936644?module_item_id=6273686) | [[N1 - Numerical#error definition]] |
-|            | sources of error | [src](https://csulb.instructure.com/courses/105733/files/24936645?module_item_id=6273687) | [[N1 - Numerical#sources of error]] |
-|            | Taylor series    | [src](https://csulb.instructure.com/courses/105733/files/24936646?module_item_id=6273688) | [[N1 - Numerical#taylor series]]    |
-|            |                  |                                                                                           |                         |
+| Date       | Subject                 | Src                                                                                       | Notes                                    |
+| ---------- | ----------------------- | ----------------------------------------------------------------------------------------- | ---------------------------------------- |
+| 2025-08-26 | error definition        | [src](https://csulb.instructure.com/courses/105733/files/24936644?module_item_id=6273686) | [[N1-Numerical#error definition]]        |
+|            | sources of error        | [src](https://csulb.instructure.com/courses/105733/files/24936645?module_item_id=6273687) | [[N1-Numerical#sources of error]]        |
+|            | Taylor series           | [src](https://csulb.instructure.com/courses/105733/files/24936646?module_item_id=6273688) | [[N1-Numerical#taylor series]]           |
+| 2025-08-28 | graphical solutions     | src                                                                                       | [[N2-Numerical#graphical solutions]]     |
+|            | fixed point interaction |                                                                                           | [[N2-Numerical#fixed point interaction]] |
+|            |                         |                                                                                           |                                          |
 
 
 ## Homework
