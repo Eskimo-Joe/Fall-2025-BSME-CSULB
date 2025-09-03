@@ -9,6 +9,7 @@ views:
       - due
       - tags
       - submitted
+      - src
     sort:
       - property: submitted
         direction: ASC

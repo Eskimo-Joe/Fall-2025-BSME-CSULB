@@ -5,8 +5,10 @@ tags:
 ---
 
 ## graphical solutions
-$$v(t)=\sqrt{ \frac{gm}{C_{d}} }\sinh(\sqrt{  })$$
-...
+$$v(t)=\sqrt{ \frac{gm}{C_{d}} }\tanh\left( \sqrt{\frac{gC_{d}}{m}  }t \right)$$
+![[Pasted image 20250902152231.png]]
+
+![[Pasted image 20250902152416.png]]
 
 
 ## fixed point interaction

@@ -12,17 +12,17 @@ Tu/Th 5:30-6:45p
 Syllabus (Paper)
 
 ## Notes
-| Date       | Subject | Src | Notes             |
-| ---------- | ------- | --- | ----------------- |
-| 2025-08-28 | Intro   |     | [[N1-Powerplant]] |
-|            |         |     |                   |
-|            |         |     |                   |
+| Date       | Subject       | Src | Notes             |
+| ---------- | ------------- | --- | ----------------- |
+| 2025-08-28 | Intro         |     | [[N1-Powerplant]] |
+| 2025-09-02 | thermo review |     | [[N2-Powerplant]] |
+|            |               |     |                   |
 
 
 ## Homework
 ```dataview
 table due, submitted, src
-from "Fall-2025-BSME-CSULB/HW" and #MAE336
+from "Fall-2025-BSME-CSULB/MISC/HW" and #MAE336
 sort due
 sort submitted
 ```

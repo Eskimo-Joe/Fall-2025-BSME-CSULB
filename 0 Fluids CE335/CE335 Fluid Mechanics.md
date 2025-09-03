@@ -16,7 +16,9 @@ Tu/Th 2-3:15p
 | ---------- | ----------------- | ---------------------------------------------------------------------------------------- | ------------------ |
 | 2025-08-26 | Intro, Properties | [src](https://csulb.instructure.com/courses/99910/files/24451343?module_item_id=6063920) | [[N1-CE335]]       |
 | 2025-08-28 | L2                | [src](https://csulb.instructure.com/courses/99910/files/24451309?module_item_id=6063921) | [[N1-CE335#08-28]] |
-|            | L3                | [src](https://csulb.instructure.com/courses/99910/files/24451058?module_item_id=6063922) |                    |
+| 2025-09-02 | L3                | [src](https://csulb.instructure.com/courses/99910/files/24451058?module_item_id=6063922) | [[N1-CE335#09-02]] |
+|            |                   |                                                                                          |                    |
+|            |                   |                                                                                          |                    |
 
 
 ## Homework
