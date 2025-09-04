@@ -24,7 +24,7 @@ Th 10a-12:45p
 ## Homework
 ```dataview
 table due, submitted, src
-from "Fall-2025-BSME-CSULB/HW" and #CE336
+from "Fall-2025-BSME-CSULB/MISC/HW" and #CE336
 sort due
 sort submitted
 ```
