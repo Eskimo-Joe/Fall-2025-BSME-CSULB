@@ -14,9 +14,11 @@ Sa 9-11:45a
 ![[Pasted image 20250830090313.png]]
 
 ## Notes
-| Date       | Subject | Src | Notes |
-| ---------- | ------- | --- | ----- |
-| 2025-08-30 | Intro   |     |       |
+| Date       | Subject | Src                                                                                       | Notes         |
+| ---------- | ------- | ----------------------------------------------------------------------------------------- | ------------- |
+| 2025-08-30 | Intro   |                                                                                           |               |
+| 2025-09-06 | Torsion | [src](https://csulb.instructure.com/courses/105961/files/24375703?module_item_id=6025562) | [[N1-MAE361]] |
+|            |         |                                                                                           |               |
 
 
 ## Homework
