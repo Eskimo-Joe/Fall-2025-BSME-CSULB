@@ -9,6 +9,8 @@ quiz on chapter 1-7, skip 8 (exergy)
 hw starts on ch 9
 
 
+## 09-04
+
 
 
 

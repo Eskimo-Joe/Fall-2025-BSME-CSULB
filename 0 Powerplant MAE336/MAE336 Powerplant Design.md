@@ -12,11 +12,12 @@ Tu/Th 5:30-6:45p
 Syllabus (Paper)
 
 ## Notes
-| Date       | Subject       | Src | Notes             |
-| ---------- | ------------- | --- | ----------------- |
-| 2025-08-28 | Intro         |     | [[N1-Powerplant]] |
-| 2025-09-02 | thermo review |     | [[N2-Powerplant]] |
-|            |               |     |                   |
+| Date       | Subject       | Src | Notes                   |
+| ---------- | ------------- | --- | ----------------------- |
+| 2025-08-28 | Intro         |     | [[N1-Powerplant]]       |
+| 2025-09-02 | thermo review |     | [[N2-Powerplant]]       |
+| 2025-09-04 |               |     | [[N2-Powerplant#09-04]] |
+|            |               |     |                         |
 
 
 ## Homework
