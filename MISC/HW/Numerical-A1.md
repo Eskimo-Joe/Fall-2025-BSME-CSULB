@@ -2,7 +2,7 @@
 due: 2025-09-09
 tags:
   - MAE305
-submitted: F
+submitted: T
 src: https://docs.google.com/document/d/1VK-heeZpnBVOmcLtaXf93jDyn43a_RFuCFJZHPFihPo/edit?tab=t.0
 ---
 Assignment 1 by Joseph Ramirez
@@ -34,7 +34,7 @@ Use MATLAB function fzero to solve the above equation.
 Ans = -.70346
 
 ## 3.
-Find the roots of:  x5 + 0.9x3 – 3.6x2 – 11.84 = 0. Use MATLAB function roots
+Find the roots of:  $x^5+0.9x^3-3.6x^2-11.84=0$. Use MATLAB function roots
 Ans = 1.78651
 
 ## 4. 
@@ -50,6 +50,7 @@ $$f'(x)=e^{x}-4x$$
 | 2.61787 | 6.7E-13  | 3.235   | 2.617866613066812      |
 ans = 2.61778
 
+`<div style="page-break-after: always;"></div>
 ## 5.
 $x^2+\exp(x)-5=0$ has root near  $x=1$. Find it using Secant method. Select two initial guesses.
 
@@ -60,27 +61,21 @@ top=10; bottom=-10;
 y=x^2+e^x-5
 ```
 
-| $x_{k-1}$   | $x_{k}$     | $f(x_{k})$          | $f(x_{k-1})$    | $x_{k-1}-x_{k}$  | $x_{k}-\frac{f(x_{k})(x_{k-1}-x_{k})}{f(x_{k-1})-f(x_{k})}$ |
-| ----------- | ----------- | ------------------- | --------------- | ---------------- | ----------------------------------------------------------- |
-| 0           | 1           | -1.281718172        | -4              | -1               | 1.471517765                                                 |
-| 1           | 1.471517765 | 1.5212058           | -1.281718172    | -0.4715177647    | 1.215615155                                                 |
-| 1.471517765 | 1.215615155 | -0.1499118384       | 1.5212058       | 0.2559026095     | 1.238571547                                                 |
-| 1.215615155 | 1.238571547 | -0.01525971796      | -0.1499118384   | -0.02295639143   | 1.241173125                                                 |
-| 1.238571547 | 1.241173125 | 0.0001804369294     | -0.01525971796  | -0.002601578478  | 1.241142723                                                 |
-| 1.241173125 | 1.241142723 | -0.0000002132738031 | 0.0001804369294 | 0.00003040259864 | 1.241142758                                                 |
+| $x_{k-1}$ | $x_{k}$ | $f(x_{k})$ | $f(x_{k-1})$ | $x_{k-1}-x_{k}$ | $x_{k}-\frac{f(x_{k})(x_{k-1}-x_{k})}{f(x_{k-1})-f(x_{k})}$ |
+| --------- | ------- | ---------- | ------------ | --------------- | ----------------------------------------------------------- |
+| 0         | 1       | -1.281718  | -4           | -1              | 1.47151                                                     |
+| 1         | 1.47151 | 1.5212058  | -1.28171     | -0.47151        | 1.21561                                                     |
+| 1.471517  | 1.21561 | -0.149911  | 1.521205     | 0.25590         | 1.23857                                                     |
+| 1.215615  | 1.23857 | -0.015259  | -0.149911    | -0.02295        | 1.24117                                                     |
+| 1.23857   | 1.24117 | 0.0001804  | -0.015259    | -0.00260        | 1.24114                                                     |
+| 1.24117   | 1.24114 | -0.0000002 | 0.0001804    | 0.00003         | 1.24114                                                     |
 ans = 1.24114
 
+`<div style="page-break-after: always;"></div>
 ## 6
-**1. Solve    ex – 2x2 = 0 using the fixed-point method.  Find the root near x = 2.6 correct to 5 significant digits.
-    
-
-functions can be rearranged in several ways to give x = g(x) with which to begin the fixed-point method. For
+Solve    ex – 2x2 = 0 using the fixed-point method.  Find the root near x = 2.6 correct to 5 significant digits. functions can be rearranged in several ways to give x = g(x) with which to begin the fixed-point method. For
 $f(x)=e^{x}-2x^2$, one argument is $x=\pm \sqrt{ \frac{e^{x}}{2} }$
-
 a) There is a root near 2.6. Show that we do not converge to this root even though values near to the root are used to start the iterations e.g. 2.5 or 2.7
-
-
-
 
 ```desmos-graph
 left=0; right=5;
@@ -88,6 +83,34 @@ top=5; bottom=-5;
 ---
 y=e^x-2*x^2
 ```
+$$g(x)=\pm\sqrt{ \frac{e^{x}}{2} }$$
+fixed point iteration starting with 2.5
+`<div style="page-break-after: always;"></div>
 
+| n   | $x_{n}$ | $g(x_{n})$ | $x_{n+1}$ |
+| --- | ------- | ---------- | --------- |
+| 1   | 2.5     | 2.46804    | 2.46804   |
+| 2   | 2.46804 | 2.42892    | 2.42892   |
+| 3   | 2.42892 | 2.38187    | 2.38187   |
+iteration moves away from 2.6!
+now starting with 2.7
 
+| n   | $x_{n}$ | $g(x_{n})$ | $x_{n+1}$ |
+| --- | ------- | ---------- | --------- |
+| 1   | 2.7     | 2.72761    | 2.72761   |
+| 2   | 2.72761 | 2.76552    | 2.76552   |
+| 3   | 2.76552 | 2.81846    | 2.81846   |
+iterations also move away from 2.6!
+
+b) Find another arrangement that does converge correctly to the root near 2.6, then find the root.
+Newton Method:
+$$f(x)=e^{x}-2x^2;\quad f'(x)=e^{x}-4x;\quad x_{1}=2.5$$
+
+| x       | f(x)     | f'(x)   | $x-\frac{f(x)}{f'(x)}$ |
+| ------- | -------- | ------- | ---------------------- |
+| 2.5     | -0.31750 | 2.18249 | 2.64547                |
+| 2.64547 | 0.09307  | 3.50827 | 2.61894                |
+| 2.61894 | 0.00350  | 3.24549 | 2.617868               |
+| 2.61786 | 5.67E-6  | 3.23500 | 2.617866               |
+ans = 2.61786
 
