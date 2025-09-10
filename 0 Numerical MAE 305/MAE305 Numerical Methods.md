@@ -26,9 +26,10 @@ Tu/Th 3:30-4:45p
 |            | MATLAB functions                           | [src](https://csulb.instructure.com/courses/105733/modules/items/6308189)                 | [[N3-Numerical#MATLAB]]                                     |
 | 2025-09-04 | Matrices review                            | [src](https://csulb.instructure.com/courses/105733/files/25098123?module_item_id=6321364) | [[N4-Numerical#matrices review]]                            |
 |            | Determinants review                        | [src](https://csulb.instructure.com/courses/105733/files/25098124?module_item_id=6321365) | [[N4-Numerical#determinants review]]                        |
-|            | Naive Gauss                                | [src](https://csulb.instructure.com/courses/105733/files/25098125?module_item_id=6321366) | [[N4-Numerical#Naive Gauss]]                                |
+| 2025-09-09 | Naive Gauss                                | [src](https://csulb.instructure.com/courses/105733/files/25098125?module_item_id=6321366) | [[N4-Numerical#Naive Gauss]]                                |
 |            | Gaussian Elimination with partial pivoting | [src](https://csulb.instructure.com/courses/105733/files/25098126?module_item_id=6321367) | [[N4-Numerical#Gaussian elimination with partial pivoting]] |
-|            | Gaussian elimination                       |                                                                                           |                                                             |
+|            | Gaussian elimination                       | [src](https://csulb.instructure.com/courses/105733/files/25098127?module_item_id=6321368) | [[N4-Numerical#Gaussian Elimination]]                       |
+|            |                                            |                                                                                           |                                                             |
 |            |                                            |                                                                                           |                                                             |
 
 

@@ -50,4 +50,49 @@ $$p_{3}<p_{4}$$
 
 ![[Pasted image 20250904144814.png]]
 
+## Atmospheric Pressure
+
+$$p_{atm}=14696psia=2116.2psfa=101.33\text{ kPa}  $$
+
+$$\gamma_{water}=\frac{62.41\text{ lbf}}{\text{ ft}^3}=9.798 \frac{kN}{\text{ m} ^3}$$
+$$\gamma_{Hg}=13.57\gamma_{W}=846.9 \frac{lb}{ft^3}=132.96 \frac{kN}{ft^3}$$
+$$h_{atm}=33.91ft H_{2}O=10.34m H_{2}O=29.99inHg=762.1mmHg$$
+
+for a barometer 
+$$\frac{p_{1}}{\gamma_{Hg}}+z_{1}=\frac{p_{2}}{\gamma_{Hg}}+z_{2}$$
+$$p_{2}=\gamma_{hg}(z_{1}-z_{2})$$
+
+$$1torr=1mmHg$$
+
+## Absolute Pressure
+pressure with respect to complete vacuum
+gage pressure
+$$p_{abs}=p_{gage}+p_{atm}$$
+
+vacuum pressure
+$$p_{v}=-p=p_{atm}-p_{abs}$$
+
+![[Pasted image 20250909142649.png]]
+
+manometry
+![[Pasted image 20250909142740.png]]
+important to determine horizontal line of equal pressure
+so point 2 and 3 can be used. left side of equation is above 2 and right side is above 3. disregard below the planes
+
+![[Pasted image 20250909144139.png]]
+
+increase accuracy by slanting the tubes or choosing low $\gamma_{2}$ value liquid (not mercury) 
+
+![[Pasted image 20250909144151.png]]
+aka differential manometer
+
+"handshake"
+![[Pasted image 20250909145322.png]]
+
+another example i didnt record
+
+pressure in pipe with oil
+![[Pasted image 20250909145342.png]]
+
+see photo
 

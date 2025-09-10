@@ -29,7 +29,9 @@ tags:
 ![[Pasted image 20250904154935.png]]
 
 ![[Pasted image 20250904154954.png]]
+multiply and subtract to get rid of x1 and or x2 in 2nd or 3rd rows
 
+def a question on this on the test
 
 ## Gaussian elimination with partial pivoting
 
@@ -37,6 +39,11 @@ tags:
 
 ![[Pasted image 20250904155037.png]]
 ![[Pasted image 20250904155048.png]]
+
+
+## Gaussian Elimination
+
+![[Pasted image 20250909160818.png]]
 
 
 
