@@ -16,40 +16,194 @@
     {trigger: ";", replacement: ";\\quad $0", options: "mA"},
 
     // Units and powers 
-    {trigger: "m ", replacement: "\\text{ m} $0", options: "mA"},
-    {trigger: "Nm ", replacement: "\\text{ Nm} $0", options: "mA"},
-    {trigger: "km ", replacement: "\\text{ km} $0", options: "mA"},
-    {trigger: "Mm ", replacement: "\\text{ Mm} $0", options: "mA"},
-    {trigger: "Gm ", replacement: "\\text{ Gm} $0", options: "mA"},
-    {trigger: "mm ", replacement: "\\text{ mm} $0", options: "mA"},
-    {trigger: "um ", replacement: "\\text{ } \\mu \\text{m} $0", options: "mA"},
-    {trigger: "nm ", replacement: "\\text{ nm} $0", options: "mA"},
-    {trigger: "N ", replacement: "\\text{ N} $0", options: "mA"},
-    {trigger: "kN ", replacement: "\\text{ kN} $0", options: "mA"},
-    {trigger: "MN ", replacement: "\\text{ MN} $0", options: "mA"},
-    {trigger: "GN ", replacement: "\\text{ GN} $0", options: "mA"},
-    {trigger: "Pa ", replacement: "\\text{ Pa} $0", options: "mA"},
-    {trigger: "pa ", replacement: "\\text{ Pa} $0", options: "mA"},
-    {trigger: "kPa ", replacement: "\\text{ kPa} $0", options: "mA"},
-    {trigger: "kpa ", replacement: "\\text{ kPa} $0", options: "mA"},
-    {trigger: "Mpa ", replacement: "\\text{ MPa} $0", options: "mA"},
-    {trigger: "MPa ", replacement: "\\text{ MPa} $0", options: "mA"},
-    {trigger: "Gpa ", replacement: "\\text{ GPa} $0", options: "mA"},
-    {trigger: "GPa ", replacement: "\\text{ GPa} $0", options: "mA"},
-    {trigger: "k ", replacement: "\\times 10^{3} $0", options: "mA"},
-    {trigger: "M ", replacement: "\\times 10^{6} $0", options: "mA"},
-    {trigger: "G ", replacement: "\\times 10^{9} $0", options: "mA"},
-    {trigger: "c ", replacement: "\\times 10^{-2} $0", options: "mA"},
-    {trigger: "mil ", replacement: "\\times 10^{-3} $0", options: "mA"},
-    {trigger: "mic ", replacement: "\\times 10^{-6} $0", options: "mA"},
-    {trigger: "nano ", replacement: "\\times 10^{-9} $0", options: "mA"},
-    {trigger: "deg", replacement: "^{\\circ} $0", options: "mA"},
-    {trigger: "rad", replacement: "\\text{ radians} $0", options: "mA"},
-    {trigger: "lb ", replacement: "\\text{ lb} $0", options: "mA"},
-    {trigger: "lbf ", replacement: "\\text{ lb-f} $0", options: "mA"},
-    {trigger: "kips ", replacement: "\\text{ kips} $0", options: "mA"},
-    {trigger: " psi", replacement: "\\text{ psi} $0", options: "mA"},
-    {trigger: "ksi ", replacement: "\\text{ ksi} $0", options: "mA"},
+
+  // --- Temperature ---
+  {trigger: ".K", replacement: "\\text{ K} $0", options: "mA"},
+  {trigger: ".C", replacement: "^{\\circ}\\text{C} $0", options: "mA"},
+  {trigger: ".F", replacement: "^{\\circ}\\text{F} $0", options: "mA"},
+  {trigger: ".R", replacement: "^{\\circ}\\text{R} $0", options: "mA"},
+    
+  // --- Base Units ---
+  {trigger: ".m", replacement: "\\text{ m} $0", options: "mA"},
+  {trigger: ".N", replacement: "\\text{ N} $0", options: "mA"},
+  {trigger: ".J", replacement: "\\text{ J} $0", options: "mA"},
+  {trigger: ".W", replacement: "\\text{ W} $0", options: "mA"},
+  {trigger: ".pa", replacement: "\\text{ pa} $0", options: "mA"},
+
+  // --- Pico (10^-12) ---
+  {trigger: ".pm", replacement: "\\text{ pm} $0", options: "mA"},
+  {trigger: ".pN", replacement: "\\text{ pN} $0", options: "mA"},
+  {trigger: ".pJ", replacement: "\\text{ pJ} $0", options: "mA"},
+  {trigger: ".pW", replacement: "\\text{ pW} $0", options: "mA"},
+  {trigger: ".ppa", replacement: "\\text{ ppa} $0", options: "mA"},
+
+  // --- Nano (10^-9) ---
+  {trigger: ".nm", replacement: "\\text{ nm} $0", options: "mA"},
+  {trigger: ".nN", replacement: "\\text{ nN} $0", options: "mA"},
+  {trigger: ".nJ", replacement: "\\text{ nJ} $0", options: "mA"},
+  {trigger: ".nW", replacement: "\\text{ nW} $0", options: "mA"},
+  {trigger: ".npa", replacement: "\\text{ npa} $0", options: "mA"},
+
+  // --- Micro (10^-6, µ) ---
+  {trigger: ".um", replacement: "\\text{ µm} $0", options: "mA"},
+  {trigger: ".uN", replacement: "\\text{ µN} $0", options: "mA"},
+  {trigger: ".uJ", replacement: "\\text{ µJ} $0", options: "mA"},
+  {trigger: ".uW", replacement: "\\text{ µW} $0", options: "mA"},
+  {trigger: ".upa", replacement: "\\text{ µpa} $0", options: "mA"},
+
+  // --- Milli (10^-3) ---
+  {trigger: ".mm", replacement: "\\text{ mm} $0", options: "mA"},
+  {trigger: ".mN", replacement: "\\text{ mN} $0", options: "mA"},
+  {trigger: ".mJ", replacement: "\\text{ mJ} $0", options: "mA"},
+  {trigger: ".mW", replacement: "\\text{ mW} $0", options: "mA"},
+  {trigger: ".mpa", replacement: "\\text{ mpa} $0", options: "mA"},
+
+  // --- Kilo (10^3) ---
+  {trigger: ".km", replacement: "\\text{ km} $0", options: "mA"},
+  {trigger: ".kN", replacement: "\\text{ kN} $0", options: "mA"},
+  {trigger: ".kJ", replacement: "\\text{ kJ} $0", options: "mA"},
+  {trigger: ".kW", replacement: "\\text{ kW} $0", options: "mA"},
+  {trigger: ".kpa", replacement: "\\text{ kpa} $0", options: "mA"},
+
+  // --- Mega (10^6) ---
+  {trigger: ".Mm", replacement: "\\text{ Mm} $0", options: "mA"},
+  {trigger: ".MN", replacement: "\\text{ MN} $0", options: "mA"},
+  {trigger: ".MJ", replacement: "\\text{ MJ} $0", options: "mA"},
+  {trigger: ".MW", replacement: "\\text{ MW} $0", options: "mA"},
+  {trigger: ".Mpa", replacement: "\\text{ Mpa} $0", options: "mA"},
+
+  // --- Giga (10^9) ---
+  {trigger: ".Gm", replacement: "\\text{ Gm} $0", options: "mA"},
+  {trigger: ".GN", replacement: "\\text{ GN} $0", options: "mA"},
+  {trigger: ".GJ", replacement: "\\text{ GJ} $0", options: "mA"},
+  {trigger: ".GW", replacement: "\\text{ GW} $0", options: "mA"},
+  {trigger: ".Gpa", replacement: "\\text{ Gpa} $0", options: "mA"},
+    
+  // --- English / Imperial Units (short triggers) ---
+
+  // Mass
+  {trigger: ".lbm", replacement: "\\text{ lbm} $0", options: "mA"},
+  {trigger: ".slug", replacement: "\\text{ slug} $0", options: "mA"},
+
+  // Weight (force)
+  {trigger: ".lbf", replacement: "\\text{ lbf} $0", options: "mA"},
+
+  // Length
+  {trigger: ".f", replacement: "\\text{ ft} $0", options: "mA"},
+  {trigger: ".in", replacement: "\\text{ in} $0", options: "mA"},
+
+  // Pressure
+  {trigger: ".psi", replacement: "\\text{ psi} $0", options: "mA"},
+  {trigger: ".psf", replacement: "\\text{ psf} $0", options: "mA"},
+  {trigger: ".ksi", replacement: "\\text{ ksi} $0", options: "mA"},
+
+  // Torque / Energy
+  {trigger: ".fp", replacement: "\\text{ ft} \\cdot \\text{ lb} $0", options: "mA"},
+
+  // Power (rate)
+  {trigger: ".fpps", replacement: "\\dfrac{\\text{ ft} \\cdot \\text{ lb}}{\\text{ s}} $0", options: "mA"},
+
+  // Heat / Energy
+  {trigger: ".btu", replacement: "\\text{ BTU} $0", options: "mA"},
+
+  // Power
+  {trigger: ".hp", replacement: "\\text{ hp} $0", options: "mA"},
+
+    
+    // --- Fundamental Constants ---
+
+  // Avogadro's constant
+  {trigger: ".na", replacement: "6.022 \\times 10^{23} \\, \\dfrac{1}{\\text{mol}} $0", options: "mA"},
+
+  // Universal gas constant
+  {trigger: ".rsi", replacement: "8.314 \\, \\dfrac{\\text{J}}{\\text{mol} \\cdot \\text{K}} $0", options: "mA"},
+  {trigger: ".ren", replacement: "1.986 \\, \\dfrac{\\text{BTU}}{\\text{lbmol} \\cdot ^{\\circ}\\text{R}} $0", options: "mA"},
+
+  // Speed of light
+  {trigger: ".csi", replacement: "2.998 \\times 10^{8} \\, \\dfrac{\\text{m}}{\\text{s}} $0", options: "mA"},
+  {trigger: ".cen", replacement: "9.837 \\times 10^{8} \\, \\dfrac{\\text{ft}}{\\text{s}} $0", options: "mA"},
+
+  // Gravitational acceleration
+  {trigger: ".gsi", replacement: "9.81 \\, \\dfrac{\\text{m}}{\\text{s}^{2}} $0", options: "mA"},
+  {trigger: ".gen", replacement: "32.2 \\, \\dfrac{\\text{ft}}{\\text{s}^{2}} $0", options: "mA"},
+    
+  // --- Conversion Factors ---
+
+  // ft·lb ↔ BTU
+  {trigger: "fpbtu", replacement: "1.285 \\times 10^{-3} \\, \\dfrac{\\text{ BTU}}{\\text{ ft} \\cdot \\text{ lb}} $0", options: "mA"},
+  {trigger: "btufp", replacement: "778.2 \\, \\dfrac{\\text{ ft} \\cdot \\text{ lb}}{\\text{ BTU}} $0", options: "mA"},
+
+  // ft·lb/s ↔ hp
+  {trigger: "fppshp", replacement: "1.818 \\times 10^{-3} \\, \\dfrac{\\text{ hp}}{\\dfrac{\\text{ ft} \\cdot \\text{ lb}}{\\text{ s}}} $0", options: "mA"},
+  {trigger: "hpfpps", replacement: "550 \\, \\dfrac{\\dfrac{\\text{ ft} \\cdot \\text{ lb}}{\\text{ s}}}{\\text{ hp}} $0", options: "mA"},
+
+  // Temperature conversions (offsets only)
+  {trigger: " ck", replacement: "+273.15 \\, \\text{ K} $0", options: "mA"},
+  {trigger: " kc", replacement: "-273.15 \\, ^{\\circ}\\text{C} $0", options: "mA"},
+
+  {trigger: " fr", replacement: "+459.67 \\, ^{\\circ}\\text{R} $0", options: "mA"},
+  {trigger: " rf", replacement: "-459.67 \\, ^{\\circ}\\text{F} $0", options: "mA"},
+
+  // --- Area ---
+  {trigger: ".sin", replacement: "\\text{ in}^{2} $0", options: "mA"},
+  {trigger: ".sf", replacement: "\\text{ ft}^{2} $0", options: "mA"},
+  {trigger: ".sm", replacement: "\\text{ m}^{2} $0", options: "mA"},
+  {trigger: ".smm", replacement: "\\text{ mm}^{2} $0", options: "mA"},
+
+  // --- Volume ---
+  {trigger: ".cin", replacement: "\\text{ in}^{3} $0", options: "mA"},
+  {trigger: ".cf", replacement: "\\text{ ft}^{3} $0", options: "mA"},
+  {trigger: ".cm", replacement: "\\text{ m}^{3} $0", options: "mA"},
+  {trigger: ".cmm", replacement: "\\text{ mm}^{3} $0", options: "mA"},
+  {trigger: ".cl", replacement: "\\text{ L} $0", options: "mA"},
+  {trigger: ".cml", replacement: "\\text{ mL} $0", options: "mA"},
+
+  // --- Velocity ---
+  {trigger: ".fps", replacement: "\\dfrac{\\text{ ft}}{\\text{ s}} $0", options: "mA"},
+    {trigger: ".ips", replacement: "\\dfrac{\\text{ in}}{\\text{ s}} $0", options: "mA"},
+  {trigger: ".mps", replacement: "\\dfrac{\\text{ m}}{\\text{ s}} $0", options: "mA"},
+
+  // --- Acceleration ---
+  {trigger: ".fps2", replacement: "\\dfrac{\\text{ ft}}{\\text{ s}^{2}} $0", options: "mA"},
+  {trigger: ".mps2", replacement: "\\dfrac{\\text{ m}}{\\text{ s}^{2}} $0", options: "mA"},
+
+        
+  // --- Density ---
+  {trigger: ".dsi", replacement: "\\dfrac{\\text{ kg}}{\\text{ m}^{3}} $0", options: "mA"},
+  {trigger: ".gpml", replacement: "\\dfrac{\\text{ g}}{\\text{ mL}} $0", options: "mA"},
+  {trigger: ".den", replacement: "\\dfrac{\\text{ slug}}{\\text{ ft}^{3}} $0", options: "mA"},
+
+  // --- Specific Weight (γ) ---
+  {trigger: ".swsi", replacement: "\\dfrac{\\text{ N}}{\\text{ m}^{3}} $0", options: "mA"},
+  {trigger: ".swen", replacement: "\\dfrac{\\text{ lbf}}{\\text{ ft}^{3}} $0", options: "mA"},
+
+  // --- Specific Volume (v) ---
+  {trigger: ".spv", replacement: "\\dfrac{\\text{ m}^{3}}{\\text{ kg}} $0", options: "mA"},
+  {trigger: ".spvf", replacement: "\\dfrac{\\text{ ft}^{3}}{\\text{ slug}} $0", options: "mA"},
+
+        
+  // --- Viscosity ---
+  // Dynamic viscosity
+  {trigger: ".dvsi", replacement: "\\text{ pa} \\cdot \\text{ s} $0", options: "mA"},
+  {trigger: ".dven", replacement: "\\dfrac{\\text{ slug}}{\\text{ ft} \\cdot \\text{ s}} $0", options: "mA"},
+
+  // Kinematic viscosity
+  {trigger: ".kvsi", replacement: "\\dfrac{\\text{ m}^{2}}{\\text{ s}} $0", options: "mA"},
+  {trigger: ".kven", replacement: "\\dfrac{\\text{ ft}^{2}}{\\text{ s}} $0", options: "mA"},
+
+  // --- Flow rates (volumetric) ---
+  {trigger: ".qsi", replacement: "\\dfrac{\\text{ m}^{3}}{\\text{ s}} $0", options: "mA"},
+  {trigger: ".qen", replacement: "\\dfrac{\\text{ ft}^{3}}{\\text{ s}} $0", options: "mA"},
+  {trigger: ".lps", replacement: "\\dfrac{\\text{ L}}{\\text{ s}} $0", options: "mA"},
+  {trigger: ".mlps", replacement: "\\dfrac{\\text{ mL}}{\\text{ s}} $0", options: "mA"},
+  {trigger: ".gpm", replacement: "\\dfrac{\\text{ gal}}{\\text{ min}} $0", options: "mA"},
+
+  // --- Area moment of inertia ---
+  {trigger: ".ii", replacement: "\\text{ in}^{4} $0", options: "mA"},
+  {trigger: ".if", replacement: "\\text{ ft}^{4} $0", options: "mA"},
+  {trigger: ".im", replacement: "\\text{ m}^{4} $0", options: "mA"},
+  {trigger: ".imm", replacement: "\\text{ mm}^{4} $0", options: "mA"},
+
 
     // Arrows
     {trigger: "down", replacement: "\\downarrow $0", options: "mA"},
