@@ -96,3 +96,22 @@ pressure in pipe with oil
 
 see photo
 
+## Hydrostatic Forces on a plane
+
+![[Pasted image 20250911140607.png]]
+![[Pasted image 20250911140617.png]]
+
+![[Pasted image 20250911140635.png]]
+![[Pasted image 20250911140646.png]]
+![[Pasted image 20250911140706.png]]
+
+![[Pasted image 20250911144239.png]]
+
+![[Pasted image 20250911144246.png]]
+
+![[Pasted image 20250911144307.png]]
+
+
+
+
+

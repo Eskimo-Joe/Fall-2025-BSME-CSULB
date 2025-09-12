@@ -29,6 +29,9 @@ Tu/Th 3:30-4:45p
 | 2025-09-09 | Naive Gauss                                | [src](https://csulb.instructure.com/courses/105733/files/25098125?module_item_id=6321366) | [[N4-Numerical#Naive Gauss]]                                |
 |            | Gaussian Elimination with partial pivoting | [src](https://csulb.instructure.com/courses/105733/files/25098126?module_item_id=6321367) | [[N4-Numerical#Gaussian elimination with partial pivoting]] |
 |            | Gaussian elimination                       | [src](https://csulb.instructure.com/courses/105733/files/25098127?module_item_id=6321368) | [[N4-Numerical#Gaussian Elimination]]                       |
+| 2025-09-11 | Iterative methods, Jacobi                  | [src](https://csulb.instructure.com/courses/105733/files/25098130?module_item_id=6321371) | [[N5-Numerical#Jacobi Iterative Method]]                    |
+|            | Guass-Seidel Method                        | [src](https://csulb.instructure.com/courses/105733/files/25098130?module_item_id=6321371) | [[N5-Numerical#Gauss-Seidel Method]]                        |
+|            | ill conditioned system                     | [src](https://csulb.instructure.com/courses/105733/files/25098136?module_item_id=6321377) | [[N5-Numerical#Ill conditioned system]]                     |
 |            |                                            |                                                                                           |                                                             |
 |            |                                            |                                                                                           |                                                             |
 
