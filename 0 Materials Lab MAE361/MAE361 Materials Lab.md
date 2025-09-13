@@ -18,6 +18,8 @@ Sa 9-11:45a
 | ---------- | ------- | ----------------------------------------------------------------------------------------- | ------------- |
 | 2025-08-30 | Intro   |                                                                                           |               |
 | 2025-09-06 | Torsion | [src](https://csulb.instructure.com/courses/105961/files/24375703?module_item_id=6025562) | [[N1-MAE361]] |
+| 2025-09-13 | Flexure | [src](https://csulb.instructure.com/courses/105961/files/24375728?module_item_id=6025567) | [[N2-MAE361]] |
+|            |         |                                                                                           |               |
 |            |         |                                                                                           |               |
 
 
