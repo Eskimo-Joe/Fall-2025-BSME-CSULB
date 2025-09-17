@@ -29,5 +29,16 @@ tags:
 
 
 
+## Condition number
+
+![[Pasted image 20250916160400.png]]
+
+## Matrix Norm
+
+![[Pasted image 20250916162013.png]]
+
+More MATLAB tricks
+
+
 
 

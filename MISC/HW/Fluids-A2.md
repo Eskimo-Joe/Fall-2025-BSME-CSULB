@@ -96,6 +96,6 @@ $$F=\left( 1000 \frac{kg}{m ^3} \right)\left( 9.81 \frac{m}{s^2} \right)(1\text{
 
 ![[Pasted image 20250912222615.png|400]]
 
-
+	
 
 

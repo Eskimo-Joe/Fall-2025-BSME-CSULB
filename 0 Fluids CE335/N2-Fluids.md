@@ -133,3 +133,24 @@ $$P=2{W} = 2000 \, {mW}$$
 $$P=1{W}$$
 
 
+## Retaining Wall
+
+![[Pasted image 20250916143844.png]]
+
+![[Pasted image 20250916143908.png]]
+
+![[Pasted image 20250916143918.png]]
+
+![[Pasted image 20250916143936.png]]
+![[Pasted image 20250916143950.png]]
+
+
+![[Pasted image 20250916144034.png]]
+![[Pasted image 20250916144043.png]]
+
+![[Pasted image 20250916144055.png]]
+
+
+
+
+

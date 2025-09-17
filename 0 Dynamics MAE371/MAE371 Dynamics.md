@@ -13,13 +13,18 @@ Tu/Th 7-8:15p
 [Syllabus](obsidian://open?vault=~updn~&file=Fall-2025-BSME-CSULB%2FMISC%2FAttatchments%2F2254_MAE371_09_AnalyticalMechanics_Dynamics_Kim.pdf) (Macbook)
 
 ## Notes
-| Date       | Subject          | Src | Notes           |
-| ---------- | ---------------- | --- | --------------- |
-| 2025-08-26 | Intro            |     | [[N1-MAE371]]   |
-| 2025-08-28 |                  |     | [[N2-MAE371]]   |
-| 2025-09-02 | dependent motion |     | [[N3-MAE371]]   |
-| 2025-09-04 |                  |     | [[N4-Dynamics]] |
-|            |                  |     |                 |
+| Date       | Subject                 | Src | Notes           |
+| ---------- | ----------------------- | --- | --------------- |
+| 2025-08-26 | Intro                   |     | [[N1-MAE371]]   |
+| 2025-08-28 |                         |     | [[N2-MAE371]]   |
+| 2025-09-02 | dependent motion        |     | [[N3-MAE371]]   |
+| 2025-09-04 |                         |     | [[N4-Dynamics]] |
+| 2025-09-09 | ?                       |     |                 |
+| 2025-09-11 | Blue Origin application |     |                 |
+| 2025-09-16 | Newtons 2nd law         |     | [[N7-Dynamics]] |
+|            |                         |     |                 |
+|            |                         |     |                 |
+|            |                         |     |                 |
 
 
 ## Homework

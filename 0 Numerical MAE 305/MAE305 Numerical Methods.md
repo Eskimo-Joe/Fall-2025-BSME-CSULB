@@ -32,8 +32,8 @@ Tu/Th 3:30-4:45p
 | 2025-09-11 | Iterative methods, Jacobi                  | [src](https://csulb.instructure.com/courses/105733/files/25098130?module_item_id=6321371) | [[N5-Numerical#Jacobi Iterative Method]]                    |
 |            | Guass-Seidel Method                        | [src](https://csulb.instructure.com/courses/105733/files/25098130?module_item_id=6321371) | [[N5-Numerical#Gauss-Seidel Method]]                        |
 |            | ill conditioned system                     | [src](https://csulb.instructure.com/courses/105733/files/25098136?module_item_id=6321377) | [[N5-Numerical#Ill conditioned system]]                     |
-|            |                                            |                                                                                           |                                                             |
-|            |                                            |                                                                                           |                                                             |
+| 2025-09-16 | Condition number                           | [src](https://csulb.instructure.com/courses/105733/files/25098135?module_item_id=6321376) | [[N5-Numerical#Condition number]]                           |
+|            | Matrix Norm                                | [src](https://csulb.instructure.com/courses/105733/files/25098134?module_item_id=6321375) | [[N5-Numerical#Matric Norm]]                                |
 
 
 ## Homework
