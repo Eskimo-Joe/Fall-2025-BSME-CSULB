@@ -22,7 +22,7 @@ Tu/Th 7-8:15p
 | 2025-09-09 | ?                       |     |                 |
 | 2025-09-11 | Blue Origin application |     |                 |
 | 2025-09-16 | Newtons 2nd law         |     | [[N7-Dynamics]] |
-|            |                         |     |                 |
+| 2025-09-18 | Work and energy         |     |                 |
 |            |                         |     |                 |
 |            |                         |     |                 |
 

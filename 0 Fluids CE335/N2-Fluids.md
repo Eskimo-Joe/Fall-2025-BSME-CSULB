@@ -145,12 +145,24 @@ $$P=1{W}$$
 ![[Pasted image 20250916143950.png]]
 
 
+## Inclined Gate
 ![[Pasted image 20250916144034.png]]
 ![[Pasted image 20250916144043.png]]
 
 ![[Pasted image 20250916144055.png]]
 
 
+## Curved surfaces
 
+![[Pasted image 20250918142452.png]]
+
+![[Pasted image 20250918142507.png]]
+![[Pasted image 20250918142516.png]]
+
+![[Pasted image 20250918142534.png]]
+
+![[Pasted image 20250918142602.png]]
+
+$$\Delta\forall$$
 
 

@@ -21,7 +21,10 @@ Tu/Th 2-3:15p
 | 2025-09-09 | atmospheric pressure          | [src]([src](https://csulb.instructure.com/courses/99910/files/24451349?module_item_id=6063923)) | [[N2-Fluids#Atmospheric Pressure]]          |
 |            | absolute pressure             | [src](https://csulb.instructure.com/courses/99910/files/24451002?module_item_id=6063924)        | [[N2-Fluids#Absolute Pressure]]             |
 | 2025-09-11 | Hydrostatic forces on a plane | [src](https://csulb.instructure.com/courses/99910/files/25277293?module_item_id=6341129)        | [[N2-Fluids#Hydrostatic Forces on a plane]] |
-| 2025-09-16 |                               | [src](https://csulb.instructure.com/courses/99910/files/24451288?module_item_id=6063926)        | [[N2-Fluids#Retaining Wall]]                |
+| 2025-09-16 | Retaining walls               | [src](https://csulb.instructure.com/courses/99910/files/24451288?module_item_id=6063926)        | [[N2-Fluids#Retaining Wall]]                |
+| 2025-09-28 | Inclined gate                 |                                                                                                 | [[N2-Fluids#Inclined Gate]]                 |
+|            | Statics on curved surfaces    | [src](https://csulb.instructure.com/courses/99910/files/24451224?module_item_id=6063928)        | [[N2-Fluids#Curved surfaces]]               |
+|            |                               |                                                                                                 |                                             |
 |            |                               |                                                                                                 |                                             |
 
 
