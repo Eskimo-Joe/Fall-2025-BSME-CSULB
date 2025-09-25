@@ -8,7 +8,7 @@ submitted: T
 ## equations learned
 
 $$pv=nR_{u}T$$
-$$\rho=\frac{p}{RT};\quad R=MR_{u}$$
+$$\rho=\frac{p}{RT};\quad R=\frac{R_{u}}{M}$$
 $$\text{Isothermal: }E=p;\quad \text{Isentropic: }E=kp=\frac{C_{p}}{C_{v}}p$$
 $$c=\sqrt{ \frac{E}{p} }$$
 $$\text{Surface Tension: }F=\sigma L$$
@@ -21,8 +21,10 @@ $$1hp=550 \frac{ftlb}{s}$$
 $$T(^{\circ} R)=T(^{\circ} F)+459.7$$
 $$1gmol=6.022\times 10^{23}\text{particles}$$
 $$R_{u}=49709 \frac{ftlb}{mol\cdot ^{\circ} R}=8.313 \frac{J}{mol\cdot K}$$
-$$\rho_{H_{2}O@4C}=1000 \frac{kg}{\text{ m} ^3}$$
+$$\rho_{H_{2}O@4C}=1000 \frac{kg}{\text{ m} ^3}=62.4 \frac{lb}{ft^3}$$
+$$1atm=14.7psi=101.325kPa$$
 
+`<div style="page-break-after: always;"></div>
 ## variables
 | name                    | variable                            | SI units                        | US units             |
 | ----------------------- | ----------------------------------- | ------------------------------- | -------------------- |
