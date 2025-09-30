@@ -38,3 +38,4 @@ Approximate percent relative error
 $$\epsilon_{a}=\frac{Present-Previous}{Present}$$
 Stopping Criteria: $\epsilon_{s}$
 $$\epsilon_{a}<\epsilon_{s}$$
+
