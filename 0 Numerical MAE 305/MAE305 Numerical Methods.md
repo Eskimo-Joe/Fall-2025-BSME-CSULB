@@ -34,6 +34,9 @@ Tu/Th 3:30-4:45p
 |            | ill conditioned system                     | [src](https://csulb.instructure.com/courses/105733/files/25098136?module_item_id=6321377) | [[N5-Numerical#Ill conditioned system]]                     |
 | 2025-09-16 | Condition number                           | [src](https://csulb.instructure.com/courses/105733/files/25098135?module_item_id=6321376) | [[N5-Numerical#Condition number]]                           |
 |            | Matrix Norm                                | [src](https://csulb.instructure.com/courses/105733/files/25098134?module_item_id=6321375) | [[N5-Numerical#Matric Norm]]                                |
+|            |                                            |                                                                                           |                                                             |
+| 2025-09-30 |                                            |                                                                                           |                                                             |
+|            |                                            |                                                                                           |                                                             |
 
 
 ## Homework

@@ -64,5 +64,15 @@ something about this square spinning
 ![[Pasted image 20250923145151.png]]
 
 
+## Reynolds Transport Theorem (RTT)
+
+![[Pasted image 20250930141255.png]]
+
+B: extensive
+b: intensive
+
+
+![[Pasted image 20250930141311.png]]
+
 
 
