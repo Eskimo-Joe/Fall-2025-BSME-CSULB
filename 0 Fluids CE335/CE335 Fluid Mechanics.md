@@ -25,8 +25,11 @@ Tu/Th 2-3:15p
 | 2025-09-18 | Inclined gate                  |                                                                                                 | [[N2-Fluids#Inclined Gate]]                    |
 |            | Statics on curved surfaces     | [src](https://csulb.instructure.com/courses/99910/files/24451224?module_item_id=6063928)        | [[N2-Fluids#Curved surfaces]]                  |
 | 2025-09-23 | Fluid Kinematics               | [src](https://csulb.instructure.com/courses/99910/files/24451359?module_item_id=6063930)        | [[N4-Fluids]]                                  |
+| 2025-09-25 | Statics of curved surfaces     |                                                                                                 |                                                |
 | 2025-09-30 | Reynolds Transport Theorem     | [src](https://csulb.instructure.com/courses/99910/files/24450996?module_item_id=6063931)        | [[N4-Fluids#Reynolds Transport Theorem (RTT)]] |
 |            | Finite Control Volume Analysis | src                                                                                             | [[N5-Fluids]]                                  |
+| 2025-10-02 | Bernoullis Equation            | [src](https://csulb.instructure.com/courses/99910/files/24450997?module_item_id=6063932)        | [[N3-Fluids]]                                  |
+|            |                                |                                                                                                 |                                                |
 |            |                                |                                                                                                 |                                                |
 
 
