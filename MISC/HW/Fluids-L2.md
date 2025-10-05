@@ -2,7 +2,7 @@
 due: 2025-10-02
 tags:
   - CE336
-submitted: F
+submitted: T
 src:
 ---
 ### Fall Time
@@ -31,6 +31,9 @@ $$\frac{KE}{\Delta t}=\rho ghQ=\gamma hQ$$
 $$\frac{KE}{\Delta t}=\left( 62.2 \frac{lb}{ft^3} \right)\left( \frac{50.25}{12} ft\right)\left( \frac{25.6lb}{27.7s}\times \frac{1 ft^3}{62.2lb} \right)=3.87 \frac{ft\cdot lb}{s}$$
 
 
-
+`<div style="page-break-after: always;"></div>
+## Time to empty tank
+$$t=\frac{2A_{T}}{C_{d_{1}}A_{o}\sqrt{ 2g }}[\sqrt{ h_{1} }-\sqrt{ h_{2} }]$$
+$$t=\frac{2(4ft^2)}{(1.049)(.00087ft^2)\left( \sqrt{ 2\left( 32.2 \frac{ft}{s^2} \right) } \right)}\left[ \sqrt{ \frac{30}{12}ft }-\sqrt{ \frac{55}{12}ft } \right]=609.4s$$
 
 

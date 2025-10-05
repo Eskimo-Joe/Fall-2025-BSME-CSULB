@@ -2,7 +2,7 @@
 due: 2025-10-02
 tags:
   - MAE305
-submitted: F
+submitted: T
 src:
 ---
 
