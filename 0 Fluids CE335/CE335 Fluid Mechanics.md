@@ -29,6 +29,7 @@ Tu/Th 2-3:15p
 | 2025-09-30 | Reynolds Transport Theorem     | [src](https://csulb.instructure.com/courses/99910/files/24450996?module_item_id=6063931)        | [[N4-Fluids#Reynolds Transport Theorem (RTT)]] |
 |            | Finite Control Volume Analysis | src                                                                                             | [[N5-Fluids]]                                  |
 | 2025-10-02 | Bernoullis Equation            | [src](https://csulb.instructure.com/courses/99910/files/24450997?module_item_id=6063932)        | [[N3-Fluids]]                                  |
+| 2025-10-07 |                                | [src](https://csulb.instructure.com/courses/99910/files/24450998?module_item_id=6063933)        | [[N3-Fluids#10-07]]                            |
 |            |                                |                                                                                                 |                                                |
 |            |                                |                                                                                                 |                                                |
 
