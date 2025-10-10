@@ -54,3 +54,49 @@ $$\dot{\vec{H}}=\frac{d \vec{H}}{dt}=M=0$$
 $$\vec{H}=\text{constant}$$
 conservation of angular momentum
 
+
+## 10-09
+
+
+system of particles in 3D
+given masses, positions, and velocities
+
+$$m_{a}=1kg;\quad m_{B}=2kg;\quad m_{C}=3kg$$
+$$\vec{r}_{A}=\bra{0,3,1};\quad \vec{r_{B}}=\bra{3,0,2.5} ;\quad \vec{r}_{c}=\bra{4,2,1}  $$
+$$\vec{v}_{A}=(3,-2,4);\quad \vec{v_{B}}=4,3,0;\quad \vec{v}_{C}=2,5,-3$$
+$$\vec{H}_{o}=\sum \vec{r}_{i}\times m_{i}\vec{v_{i}}$$
+$$\vec{H}_{o}=(1)\begin{bmatrix}
+i & j & k \\
+0 & 3 & 2 \\
+3 & -2 & 4
+\end{bmatrix}+(2)\begin{bmatrix}
+i & j & k \\
+3 & 0 & 2.5 \\
+4 & 3 & 0
+\end{bmatrix}+(3)\begin{bmatrix}
+4 & 2 & 1 \\
+2 & 5 & -3
+\end{bmatrix}$$
+$$H_{i}=i\begin{bmatrix}
+3 & 1 \\
+-2 & 4
+\end{bmatrix}-j\begin{bmatrix}
+0 & 1  \\
+3 & 4
+\end{bmatrix}+k\begin{bmatrix}
+0 & 3 \\
+3 & -2
+\end{bmatrix}$$
+$$H_{i}=(14,3,-9)$$
+$$\vec{H}_{o}=(-34,65,57)$$
+
+find the mass center 
+$$\vec{r}_{G}=\frac{\sum m \vec{r}}{\sum m}=\frac{(0,3,1)+2(3,0,2.5)+3(4,2,1)}{1+2+3}=(3,1.5,1.5)$$
+
+$$\langle \rangle $$
+$$r_{a}'=r_{a}-r_{G}$$
+$$\vec{H}_{G}=\sum   \vec{r}_{i}'\times m \vec{v}_{i}$$
+
+
+
+
