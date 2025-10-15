@@ -30,7 +30,9 @@ Tu/Th 2-3:15p
 |            | Finite Control Volume Analysis | src                                                                                             | [[N5-Fluids]]                                  |
 | 2025-10-02 | Bernoullis Equation            | [src](https://csulb.instructure.com/courses/99910/files/24450997?module_item_id=6063932)        | [[N3-Fluids]]                                  |
 | 2025-10-07 |                                | [src](https://csulb.instructure.com/courses/99910/files/24450998?module_item_id=6063933)        | [[N3-Fluids#10-07]]                            |
-|            |                                |                                                                                                 |                                                |
+| 2025-10-09 | ditched for PPD                | [src](https://csulb.instructure.com/courses/99910/files/24450999?module_item_id=6063934)        |                                                |
+| 2025-10-14 | work-energy equation           | [src](https://csulb.instructure.com/courses/99910/files/24451289?module_item_id=6063935)        | [[N3-Fluids#10-14]]                            |
+| 2025-10-   |                                |                                                                                                 |                                                |
 |            |                                |                                                                                                 |                                                |
 
 

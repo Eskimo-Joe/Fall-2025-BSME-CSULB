@@ -100,3 +100,21 @@ $$\vec{H}_{G}=\sum   \vec{r}_{i}'\times m \vec{v}_{i}$$
 
 
 
+## 10-14
+
+two objects collide and the second explode into two pieces
+$V_{A}=16 \frac{ft}{s}$ and $V_{B}=0 \frac{ft}{s}$
+A and B have mass m and C and D have mass m/2
+C moves at 30 degrees above horizontal and moves 6.3' in the x direction after t=0.7s and D moves 6.3' in the x direction in 0.9s . Determine the direction and distance of D
+
+$$m \vec{v}_{A}+m \vec{v}_{B}=m \vec{v}_{A}+\frac{m}{2} \vec{v}_{C}+ \frac{m}{2} \vec{v}_{D}$$
+horizontal component
+
+$$16m=m \vec{v}_{A}'+ \frac{m}{2}\left( \frac{6.3}{0.7} \frac{ft}{s} \right)+\frac{m}{2} \vec{v}_{D}$$
+$$v_{c}= \frac{6.3}{0.7\cdot \cos(30)}=10.39 \frac{ft}{s}$$
+
+$$\vec{v}_{dx}=7 \frac{ft}{s}$$
+$$v_{cx}=9 \frac{ft}{s};\quad v_{cy}=5.19 \frac{ft}{s}$$
+sum of momentum in the y direction
+
+

@@ -37,6 +37,12 @@ Tu/Th 3:30-4:45p
 |            |                                            |                                                                                           |                                                             |
 | 2025-09-30 |                                            |                                                                                           |                                                             |
 |            |                                            |                                                                                           |                                                             |
+| 2025-10-07 | exam                                       |                                                                                           |                                                             |
+| 2025-10-09 | all of interpolation section               |                                                                                           |                                                             |
+| 2025-10-14 | numerical differentiation                  | [src](https://csulb.instructure.com/courses/105733/files/25831489?module_item_id=6387380) |                                                             |
+|            |                                            | [src](https://csulb.instructure.com/courses/105733/files/25831493?module_item_id=6387383) |                                                             |
+|            |                                            |                                                                                           |                                                             |
+|            |                                            |                                                                                           |                                                             |
 
 
 ## Homework

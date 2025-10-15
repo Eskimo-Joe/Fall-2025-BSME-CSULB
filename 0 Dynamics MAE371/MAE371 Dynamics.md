@@ -25,7 +25,9 @@ Tu/Th 7-8:15p
 | 2025-09-18 | Work and energy         |     |                         |
 | 2025-09-30 | Collision               |     | [[N9-Dynamics]]         |
 | 2025-10-02 | exam review + ch14      |     | [[CH14-Dynamics]]       |
-| 2025-10-09 | Ch 15                   |     | [[CH14-Dynamics#10-09]] |
+| 2025-10-09 | Ch 14                   |     | [[CH14-Dynamics#10-09]] |
+| 2025-10-14 | Ch 14                   |     | [[CH14-Dynamics#10-14]] |
+|            | Ch 15                   |     | [[Ch15-Dynamics]]       |
 |            |                         |     |                         |
 
 
