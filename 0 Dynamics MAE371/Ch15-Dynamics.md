@@ -37,5 +37,17 @@ a weight hangs from the 5" diameter
 $$y_{B}=?;\quad v_{B}=?;\quad t=2s$$
 
 
+## 10-16
+
+Aside:
+$$\vec{v}=\omega \times r$$
+$$\vec{a}=\alpha \times r$$
+the velocity, angular velocity, and radius are always orthogonal
+the accel, angular accel, and radius are always orthogonal
+
+examples with pulling a wheel (general plane motion)
+
+
+
 
 

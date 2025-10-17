@@ -45,6 +45,12 @@ can utilize reheating
 can use regeneration aka feedwater heater
 
 
+## 10-16
+
+feedwater heaters
+
+dont worry about exergy
+
 
 
 

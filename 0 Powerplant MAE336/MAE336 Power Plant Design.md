@@ -25,6 +25,9 @@ Syllabus (Paper)
 | 2025-10-09 | hw review     |     |                         |
 | 2025-10-14 | hw review     |     |                         |
 |            | Ch10          |     | [[Ch10-PPD]]            |
+| 2025-10-16 | cont.         |     | [[Ch10-PPD#10-16]]      |
+|            |               |     |                         |
+|            |               |     |                         |
 
 
 
