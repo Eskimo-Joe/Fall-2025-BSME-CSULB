@@ -44,6 +44,7 @@ Tu/Th 3:30-4:45p
 | 2025-10-16 | Richardson extrapolation                   | [src](https://csulb.instructure.com/courses/105733/files/25669069?module_item_id=6372200) |                                                             |
 |            | numerical integration                      | [src](https://csulb.instructure.com/courses/105733/files/26085169?module_item_id=6407109) |                                                             |
 |            | simpsons rule                              | [src](https://csulb.instructure.com/courses/105733/files/26085174?module_item_id=6407113) |                                                             |
+| 2025-10-21 | numerical integration?                     | [src](https://csulb.instructure.com/courses/105733/files/26085169?module_item_id=6407109) |                                                             |
 |            |                                            |                                                                                           |                                                             |
 |            |                                            |                                                                                           |                                                             |
 

@@ -32,7 +32,12 @@ Tu/Th 2-3:15p
 | 2025-10-07 |                                | [src](https://csulb.instructure.com/courses/99910/files/24450998?module_item_id=6063933)        | [[N3-Fluids#10-07]]                            |
 | 2025-10-09 | ditched for PPD                | [src](https://csulb.instructure.com/courses/99910/files/24450999?module_item_id=6063934)        |                                                |
 | 2025-10-14 | work-energy equation           | [src](https://csulb.instructure.com/courses/99910/files/24451289?module_item_id=6063935)        | [[N3-Fluids#10-14]]                            |
-| 2025-10-   |                                |                                                                                                 |                                                |
+| 2025-10-16 | ditched                        | [src](https://csulb.instructure.com/courses/99910/files/24451000?module_item_id=6063936)        |                                                |
+|            |                                | [src](https://csulb.instructure.com/courses/99910/files/24451001?module_item_id=6063937)        |                                                |
+|            |                                | [src](https://csulb.instructure.com/courses/99910/files/24451004?module_item_id=6063939)        |                                                |
+|            |                                | [src](https://csulb.instructure.com/courses/99910/files/24451003?module_item_id=6063942)        |                                                |
+| 2025-10-21 | moving conduits                |                                                                                                 |                                                |
+|            |                                |                                                                                                 |                                                |
 |            |                                |                                                                                                 |                                                |
 
 

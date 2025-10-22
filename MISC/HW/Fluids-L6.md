@@ -1,7 +1,7 @@
 ---
-due: 2025-11-06
+due: 2025-10-23
 tags:
-  - MAE336
+  - CE336
 submitted: F
 src:
 ---

@@ -48,6 +48,14 @@ the accel, angular accel, and radius are always orthogonal
 examples with pulling a wheel (general plane motion)
 
 
+## 10-21
+
+redo piston problem
+
+learn about center of velocity thru another problem
+
+redo original problem with center of velocity principle
+
 
 
 
