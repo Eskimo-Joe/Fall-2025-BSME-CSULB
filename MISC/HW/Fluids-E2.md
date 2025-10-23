@@ -12,3 +12,12 @@ Monty will review likely problems on Monday from 12:30 PM to 1:30 PM in **ECS 3
 
 
 
+
+## Curved surface practice
+
+![[Pasted image 20251022164545.png]]
+
+$$\sum F_{x}=0;\quad F_{2}=F_{H}$$
+
+
+
