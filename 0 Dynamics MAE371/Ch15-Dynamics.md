@@ -48,7 +48,7 @@ the accel, angular accel, and radius are always orthogonal
 examples with pulling a wheel (general plane motion)
 
 
-## 10-21
+x## 10-21
 
 redo piston problem
 
