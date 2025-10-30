@@ -1,7 +1,7 @@
 ---
-due: 2025-10-28
+due: 2025-10-30
 tags:
   - MAE336
-submitted: T
+submitted: F
 src:
 ---
