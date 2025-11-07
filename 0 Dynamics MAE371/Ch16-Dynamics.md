@@ -14,3 +14,10 @@ $$\vec{H}=\omega \sum r^2\Delta m=I \vec{\omega}$$
 $$\dot{H}=M=I \dot{\omega}=I\vec{\alpha} $$
 
 
+## 11-06
+
+$$F=ma$$
+$$M=I\alpha$$
+
+
+
