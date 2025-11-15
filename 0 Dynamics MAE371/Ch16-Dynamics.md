@@ -19,5 +19,9 @@ $$\dot{H}=M=I \dot{\omega}=I\vec{\alpha} $$
 $$F=ma$$
 $$M=I\alpha$$
 
+## 11-13
+
+rolling ball down a ramp
+
 
 

@@ -12,33 +12,35 @@ Tu/Th 2-3:15p
 [Syllabus](https://csulb.instructure.com/courses/99910/assignments/syllabus)
 
 ## Notes
-| Date       | Subject                        | Src                                                                                             | Notes                                          |
-| ---------- | ------------------------------ | ----------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| 2025-08-26 | Intro, Properties              | [src](https://csulb.instructure.com/courses/99910/files/24451343?module_item_id=6063920)        | [[N1-CE335]]                                   |
-| 2025-08-28 | L2                             | [src](https://csulb.instructure.com/courses/99910/files/24451309?module_item_id=6063921)        | [[N1-CE335#08-28]]                             |
-| 2025-09-02 | L3; incomplete                 | [src](https://csulb.instructure.com/courses/99910/files/24451058?module_item_id=6063922)        | [[N1-CE335#09-02]]                             |
-| 2025-09-04 | fluid statics                  | [src](https://csulb.instructure.com/courses/99910/files/24451349?module_item_id=6063923)        | [[N2-Fluids#Ch. 2, Fluid Statics]]             |
-| 2025-09-09 | atmospheric pressure           | [src]([src](https://csulb.instructure.com/courses/99910/files/24451349?module_item_id=6063923)) | [[N2-Fluids#Atmospheric Pressure]]             |
-|            | absolute pressure              | [src](https://csulb.instructure.com/courses/99910/files/24451002?module_item_id=6063924)        | [[N2-Fluids#Absolute Pressure]]                |
-| 2025-09-11 | Hydrostatic forces on a plane  | [src](https://csulb.instructure.com/courses/99910/files/25277293?module_item_id=6341129)        | [[N2-Fluids#Hydrostatic Forces on a plane]]    |
-| 2025-09-16 | Retaining walls                | [src](https://csulb.instructure.com/courses/99910/files/24451288?module_item_id=6063926)        | [[N2-Fluids#Retaining Wall]]                   |
-| 2025-09-18 | Inclined gate                  |                                                                                                 | [[N2-Fluids#Inclined Gate]]                    |
-|            | Statics on curved surfaces     | [src](https://csulb.instructure.com/courses/99910/files/24451224?module_item_id=6063928)        | [[N2-Fluids#Curved surfaces]]                  |
-| 2025-09-23 | Fluid Kinematics               | [src](https://csulb.instructure.com/courses/99910/files/24451359?module_item_id=6063930)        | [[N4-Fluids]]                                  |
-| 2025-09-25 | Statics of curved surfaces     |                                                                                                 |                                                |
-| 2025-09-30 | Reynolds Transport Theorem     | [src](https://csulb.instructure.com/courses/99910/files/24450996?module_item_id=6063931)        | [[N4-Fluids#Reynolds Transport Theorem (RTT)]] |
-|            | Finite Control Volume Analysis | src                                                                                             | [[N5-Fluids]]                                  |
-| 2025-10-02 | Bernoullis Equation            | [src](https://csulb.instructure.com/courses/99910/files/24450997?module_item_id=6063932)        | [[N3-Fluids]]                                  |
-| 2025-10-07 |                                | [src](https://csulb.instructure.com/courses/99910/files/24450998?module_item_id=6063933)        | [[N3-Fluids#10-07]]                            |
-| 2025-10-09 | ditched for PPD                | [src](https://csulb.instructure.com/courses/99910/files/24450999?module_item_id=6063934)        |                                                |
-| 2025-10-14 | work-energy equation           | [src](https://csulb.instructure.com/courses/99910/files/24451289?module_item_id=6063935)        | [[N3-Fluids#10-14]]                            |
-| 2025-10-16 | ditched                        | [src](https://csulb.instructure.com/courses/99910/files/24451000?module_item_id=6063936)        |                                                |
-|            |                                | [src](https://csulb.instructure.com/courses/99910/files/24451001?module_item_id=6063937)        |                                                |
-|            |                                | [src](https://csulb.instructure.com/courses/99910/files/24451004?module_item_id=6063939)        |                                                |
-|            |                                | [src](https://csulb.instructure.com/courses/99910/files/24451003?module_item_id=6063942)        |                                                |
-| 2025-10-21 | moving conduits                |                                                                                                 |                                                |
-|            |                                |                                                                                                 |                                                |
-|            |                                |                                                                                                 |                                                |
+| Date       | Subject                        | Src                                                                                                          | Notes                                          |
+| ---------- | ------------------------------ | ------------------------------------------------------------------------------------------------------------ | ---------------------------------------------- |
+| 2025-08-26 | Intro, Properties              | [src](https://csulb.instructure.com/courses/99910/files/24451343?module_item_id=6063920)                     | [[N1-CE335]]                                   |
+| 2025-08-28 | L2                             | [src](https://csulb.instructure.com/courses/99910/files/24451309?module_item_id=6063921)                     | [[N1-CE335#08-28]]                             |
+| 2025-09-02 | L3; incomplete                 | [src](https://csulb.instructure.com/courses/99910/files/24451058?module_item_id=6063922)                     | [[N1-CE335#09-02]]                             |
+| 2025-09-04 | fluid statics                  | [src](https://csulb.instructure.com/courses/99910/files/24451349?module_item_id=6063923)                     | [[N2-Fluids#Ch. 2, Fluid Statics]]             |
+| 2025-09-09 | atmospheric pressure           | [src]([src](https://csulb.instructure.com/courses/99910/files/24451349?module_item_id=6063923))              | [[N2-Fluids#Atmospheric Pressure]]             |
+|            | absolute pressure              | [src](https://csulb.instructure.com/courses/99910/files/24451002?module_item_id=6063924)                     | [[N2-Fluids#Absolute Pressure]]                |
+| 2025-09-11 | Hydrostatic forces on a plane  | [src](https://csulb.instructure.com/courses/99910/files/25277293?module_item_id=6341129)                     | [[N2-Fluids#Hydrostatic Forces on a plane]]    |
+| 2025-09-16 | Retaining walls                | [src](https://csulb.instructure.com/courses/99910/files/24451288?module_item_id=6063926)                     | [[N2-Fluids#Retaining Wall]]                   |
+| 2025-09-18 | Inclined gate                  |                                                                                                              | [[N2-Fluids#Inclined Gate]]                    |
+|            | Statics on curved surfaces     | [src](https://csulb.instructure.com/courses/99910/files/24451224?module_item_id=6063928)                     | [[N2-Fluids#Curved surfaces]]                  |
+| 2025-09-23 | Fluid Kinematics               | [src](https://csulb.instructure.com/courses/99910/files/24451359?module_item_id=6063930)                     | [[N4-Fluids]]                                  |
+| 2025-09-25 | Statics of curved surfaces     |                                                                                                              |                                                |
+| 2025-09-30 | Reynolds Transport Theorem     | [src](https://csulb.instructure.com/courses/99910/files/24450996?module_item_id=6063931)                     | [[N4-Fluids#Reynolds Transport Theorem (RTT)]] |
+|            | Finite Control Volume Analysis | src                                                                                                          | [[N5-Fluids]]                                  |
+| 2025-10-02 | Bernoullis Equation            | [src](https://csulb.instructure.com/courses/99910/files/24450997?module_item_id=6063932)                     | [[N3-Fluids]]                                  |
+| 2025-10-07 |                                | [src](https://csulb.instructure.com/courses/99910/files/24450998?module_item_id=6063933)                     | [[N3-Fluids#10-07]]                            |
+| 2025-10-09 | ditched for PPD                | [src](https://csulb.instructure.com/courses/99910/files/24450999?module_item_id=6063934)                     |                                                |
+| 2025-10-14 | work-energy equation           | [src](https://csulb.instructure.com/courses/99910/files/24451289?module_item_id=6063935)                     | [[N3-Fluids#10-14]]                            |
+| 2025-10-16 | ditched                        | [src](https://csulb.instructure.com/courses/99910/files/24451000?module_item_id=6063936)                     |                                                |
+| 2025-10-21 | moving conduits                | [src](https://csulb.instructure.com/courses/99910/files/24451001?module_item_id=6063937)                     |                                                |
+| 2025-10-23 |                                | [src](https://csulb.instructure.com/courses/99910/files/24451004?module_item_id=6063939)                     |                                                |
+| 2025-10-28 |                                | [src](https://csulb.instructure.com/courses/99910/files/24451003?module_item_id=6063942)                     |                                                |
+| 2025-10-30 |                                |                                                                                                              |                                                |
+| 2025-11-04 |                                |                                                                                                              |                                                |
+| 2025-11-06 |                                |                                                                                                              |                                                |
+| 2025-11-11 | veterans day                   |                                                                                                              |                                                |
+| 2025-11-13 | L20, friction in pipes         | [Sign in to your account](https://csulb.instructure.com/courses/99910/files/24451007?module_item_id=6063944) |                                                |
 
 
 ## Homework
