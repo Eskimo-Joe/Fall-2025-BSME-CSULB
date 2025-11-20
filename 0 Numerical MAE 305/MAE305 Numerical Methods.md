@@ -46,6 +46,7 @@ Tu/Th 3:30-4:45p
 |            | simpsons rule                              | [src](https://csulb.instructure.com/courses/105733/files/26085174?module_item_id=6407113) |                                                             |
 | 2025-10-21 | numerical integration?                     | [src](https://csulb.instructure.com/courses/105733/files/26085169?module_item_id=6407109) |                                                             |
 |            |                                            |                                                                                           |                                                             |
+| 2025-11-13 | all of ODE section                         |                                                                                           |                                                             |
 |            |                                            |                                                                                           |                                                             |
 
 
