@@ -2,7 +2,7 @@
 due: 2025-11-20
 tags:
   - MAE305
-submitted: F
+submitted: T
 src:
 ---
 # Assignment - ODE
