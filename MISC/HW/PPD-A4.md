@@ -5,3 +5,7 @@ tags:
 submitted: F
 src:
 ---
+
+chapter 14 problems and summary
+
+

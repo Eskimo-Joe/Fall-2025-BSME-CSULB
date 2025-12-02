@@ -4,6 +4,7 @@ views:
     filters:
       and:
         - file.inFolder("Fall-2025-BSME-CSULB/MISC/HW")
+        - submitted != "T"
     order:
       - file.name
       - due
@@ -11,7 +12,7 @@ views:
       - submitted
       - src
     sort:
-      - property: submitted
-        direction: ASC
       - property: due
         direction: ASC
+    columnSize:
+      note.tags: 66
