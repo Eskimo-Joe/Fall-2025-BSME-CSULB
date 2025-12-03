@@ -2,7 +2,7 @@
 due: 2025-12-02
 tags:
   - MAE305
-submitted: F
+submitted: T
 src: https://csulb.instructure.com/courses/105733/files/26875646?module_item_id=6470510
 ---
 #### by Joseph Ramirez
