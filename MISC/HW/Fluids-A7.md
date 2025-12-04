@@ -5,3 +5,6 @@ tags:
 submitted: F
 src:
 ---
+
+![[Pasted image 20251204131527.png]]
+
