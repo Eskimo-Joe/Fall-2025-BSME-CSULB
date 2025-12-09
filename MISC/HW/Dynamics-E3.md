@@ -2,7 +2,7 @@
 due: 2025-12-04
 tags:
   - MAE371
-submitted: F
+submitted: T
 src:
 ---
 

@@ -8,5 +8,6 @@ src:
 
 7 - 8 pm
 
+![[Pasted image 20251208181455.png]]
 
 
